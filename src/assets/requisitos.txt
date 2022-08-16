@@ -1,0 +1,12 @@
++ imagen de la pizza
++ audio
++ lineas (hr)
++ salto de linea
++ listado de ingredientes
++ #ol" enumera los pasos a seguir
++ utilizar los distintos tamaños de las palabras
+usar footer, main y header
++ buscar un icono
+
+
+COMPRIMIR Y MANDAR POR MAIL
